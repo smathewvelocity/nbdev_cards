@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_cards"
+  site-url: "https://smathewvelocity.github.io/nbdev_cards"
+  description: "This repo is to run a deck of cards with probability and test of math equations showing up correctly"
+  repo-branch: master
+  repo-url: "https://github.com/smathewvelocity/nbdev_cards"
