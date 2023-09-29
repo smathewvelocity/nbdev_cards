@@ -28,5 +28,28 @@ d = {
                 "nbdev_cards/card.py",
             ),
         },
+        "nbdev_cards.deck": {
+            "nbdev_cards.deck.Deck": ("deck.html#deck", "nbdev_cards/deck.py"),
+            "nbdev_cards.deck.Deck.__eq__": (
+                "deck.html#deck.__eq__",
+                "nbdev_cards/deck.py",
+            ),
+            "nbdev_cards.deck.Deck.__gt__": (
+                "deck.html#deck.__gt__",
+                "nbdev_cards/deck.py",
+            ),
+            "nbdev_cards.deck.Deck.__init__": (
+                "deck.html#deck.__init__",
+                "nbdev_cards/deck.py",
+            ),
+            "nbdev_cards.deck.Deck.__lt__": (
+                "deck.html#deck.__lt__",
+                "nbdev_cards/deck.py",
+            ),
+            "nbdev_cards.deck.Deck.__str__": (
+                "deck.html#deck.__str__",
+                "nbdev_cards/deck.py",
+            ),
+        },
     },
 }
