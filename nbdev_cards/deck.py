@@ -34,7 +34,7 @@ class Deck:
 
     def __eq__(self, deck: "Deck"):  # Another deck to compare with
         for eigen_card in self.cards:
-            for other_card in deck:
+            for other_card in deck.cards:
                 if eigen_card < other_card or eigen_card > other_card:
                     return False
         return True
